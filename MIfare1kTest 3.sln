@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIfare1kTest 3", "MIfare1kTest 3\MIfare1kTest 3.csproj", "{39DBBE22-6B5C-4769-BC13-D2B02591F96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DBBE22-6B5C-4769-BC13-D2B02591F96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DBBE22-6B5C-4769-BC13-D2B02591F96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DBBE22-6B5C-4769-BC13-D2B02591F96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DBBE22-6B5C-4769-BC13-D2B02591F96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AA19DC-9D9E-4262-9434-7EA510F347D0}
+	EndGlobalSection
+EndGlobal
